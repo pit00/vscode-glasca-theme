@@ -36,4 +36,4 @@ Fork of [Athabasca Theme](https://github.com/ianlord/athabasca-vscode)
 
 ## Screenshot
 
-![SS](images/screenshot.png)
+![SS](images/screenshot.jpg)
