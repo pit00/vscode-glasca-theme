@@ -1,24 +1,19 @@
 {
-    "name": "athabasca",
-    "displayName": "Athabasca Theme",
-    "description": "A dark, colorful theme inspired by Glacier for Sublime Text",
-    "version": "0.0.3",
-    "publisher": "ianlord",
+    "name": "glasca",
+    "displayName": "Glasca Theme",
+    "description": "Athabasca theme with slight changes",
+    "version": "1.0.0",
+    "publisher": "pit000",
     "license": "MIT",
-    "homepage": "https://github.com/ianlord/athabasca",
-    "author": {
-        "name": "Ian Lord",
-        "email": "ian@typecode.com",
-        "url": "https://www.ianlord.com"
-    },
+    "homepage": "https://github.com/pit00/vscode-glasca-theme",
     "repository": {
         "type": "git",
-        "url": "https://github.com/ianlord/athabasca"
+        "url": "https://github.com/pit00/vscode-glasca-theme"
     },
     "bugs": {
-        "url": "https://github.com/ianlord/athabasca/issues"
+        "url": "https://github.com/pit00/vscode-glasca-theme/issues"
     },
-    "icon": "icon.png",
+    "icon": "images/icon.png",
     "engines": {
         "vscode": "^1.58.0"
     },
@@ -26,32 +21,22 @@
         "Themes"
     ],
     "galleryBanner": {
-        "color": "#b7bec9",
-        "theme": "light"
+        "color": "#75FFCD",
+        "theme": "dark"
     },
     "keyword": [
         "theme",
-        "dark theme",
-        "black theme",
-        "green theme",
-        "glacier",
-        "night owl",
-        "rad",
-        "nord",
-        "duotone",
-        "high contrast"
+        "dark",
+        "glasca",
+        "athabasca",
+        "glacier"
     ],
     "contributes": {
         "themes": [
             {
-                "label": "Athabasca",
+                "label": "Glasca",
                 "uiTheme": "vs-dark",
-                "path": "./themes/athabasca.json"
-            },
-            {
-                "label": "Athabasca Light",
-                "uiTheme": "vs-dark",
-                "path": "./themes/athabasca-light.json"
+                "path": "./themes/glasca.json"
             }
         ]
     }
