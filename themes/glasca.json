@@ -1926,8 +1926,8 @@
         "tab.inactiveForeground": "#8A96A8A3",
         
         "modernEditorTab.inactiveBackground": "#18242F",
-        "modernTab.activeBackground": "#0A1016",
-        "modernEditorTab.activeBackground": "#0A1016",
+        "modernTab.activeBackground": "#1B2B3C",
+        "modernEditorTab.activeBackground": "#1B2B3C",
         "modernTab.activeForeground": "#75FFCD",
         "modernEditorTab.activeForeground": "#75FFCD",
         
@@ -1936,7 +1936,7 @@
         "modernTab.hoverForeground": "#E6E6E6",
         "modernEditorTab.hoverForeground": "#E6E6E6",
         "modernEditorTab.hoverActionBackground": "#75FFCD40",
-        "modernEditorTab.activeHoverBackground": "#0A1016",
+        "modernEditorTab.activeHoverBackground": "#1B2B3C",
         "modernEditorTab.activeHoverActionBackground": "#75FFCD40",
         
         "breadcrumb.background": "#0A1016",
